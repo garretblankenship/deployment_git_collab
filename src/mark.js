@@ -2,7 +2,7 @@ import React from 'react';
 
 function Mark() {
     return (
-        <p>'Mark says hello'</p>
+        <p>Mark says hello</p>
     )
 }
 
